@@ -1,0 +1,97 @@
+body {
+    display: flex;
+    flex-direction: column;
+    min-width: 375px;
+}
+
+header {
+
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+menu {
+
+}
+
+.navbar-brand {
+
+}
+
+menu .nav-item {
+
+}
+
+footer a {
+    
+}
+
+#count {
+
+}
+
+.players {
+
+}
+
+.player-name {
+
+}
+
+.game {
+
+}
+
+.button-container {
+
+}
+
+.button-top-left {
+
+}
+
+.button-top-right {
+
+}
+
+.button-bottom-left {
+
+}
+
+.button-bottom-right {
+
+}
+
+.controls {
+
+}
+
+.game-name {
+
+}
+
+.score {
+
+}
+
+.center {
+
+}
+
+@media (max-height: 600px) {
+    header {
+        display:none;
+    }
+    footer {
+        display:none;
+    }
+    main {
+        flex: 1 100vh;
+    }
+}
